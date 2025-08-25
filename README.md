@@ -40,7 +40,6 @@ GOOGLE_CSE_ID=your_custom_search_engine_id
 
 ---
 
-## 현재 문제점
-```
-https://github.com/leehhm/chatbot/blob/main/chatbot.png?raw=true
-```
+## 이미지
+
+![챗봇 실행 화면](https://github.com/leehhm/chatbot/blob/main/chatbot.png?raw=true)
